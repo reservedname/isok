@@ -4,7 +4,7 @@ int change(int num,int n){
 	int i=0;
 	int a[1000]={0};
 	int sum=0;
-	
+//注释
 	while(num!=0){
 		a[i++]=num%n;
 		num/=n;
